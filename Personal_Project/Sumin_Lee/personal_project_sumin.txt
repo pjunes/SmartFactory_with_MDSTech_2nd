@@ -1,0 +1,3 @@
+Kaggle 에서 제공된 Mask Detection 데이터셋을 활용하여
+Yolov5에서 Detection 모델을 훈련하여 딥러닝 모델 파일을 만들었고,
+detect.py 에서 Boundry Box 라벨에서 데이터를 수정하여 포지션값을 추가하였습니다.
